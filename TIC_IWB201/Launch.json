@@ -1,0 +1,182 @@
+[
+
+
+
+    {
+        "City":"دمشق" ,
+        "Details":"مساحة 70م" ,
+        "MonthlyRent":"500000" ,
+        "Area":"ركن الدين" ,
+        "Garage":"موجود" ,
+        "Floor":"الطابق الثالث" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"م12" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/IMG-20240523-WA0047.jpg",
+        "Picture2":"./Images/IMG-20240523-WA0048.jpg",
+        "Picture3":"./Images/IMG-20240523-WA0050.jpg" 
+      }
+      ,
+      {
+        "City":"حلب" ,
+        "Details":"مساحة 90 م" ,
+        "MonthlyRent":"650000" ,
+        "Area":"الشعار" ,
+        "Garage":"غير موجود" ,
+        "Floor":"الطابق الأول" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"9م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 1.jpg",
+        "Picture2":"./Images/pic 2.jpg",
+        "Picture3":"./Images/pic 3.jpg"
+      }
+      ,
+      {
+        "City":"دمشق" ,
+        "Details":"مساحة 100 م" ,
+        "MonthlyRent":"800000" ,
+        "Area":"شارع بغداد" ,
+        "Garage":"غير موجود" ,
+        "Floor":"الطابق الخامس" ,
+        "Furnished":"غير موجود" ,
+        "BalconySquare":"م20" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 4.jpg",
+        "Picture2":"./Images/pic 5.jpg",
+        "Picture3":"./Images/pic 6.jpg"
+      }
+      ,
+      {
+        "City":"حماة" ,
+        "Details":"مساحة 85 م" ,
+        "MonthlyRent":"450000" ,
+        "Area":"مصياف" ,
+        "Garage":"موجود" ,
+        "Floor":"الطابق الأرضي" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"35م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 7.jpg",
+        "Picture2":"./Images/pic 8.jpg",
+        "Picture3":"./Images/pic 9.jpg"
+      }
+      ,
+      {
+        "City":"دمشق" ,
+        "Details":"مساحة 170 م" ,
+        "MonthlyRent":"1500000" ,
+        "Area":"أبو رمانة" ,
+        "Garage":"موجود" ,
+        "Floor":"الطابق الرابع" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"19م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 10.jpg",
+        "Picture2":"./Images/pic 11.jpg",
+        "Picture3":"./Images/pic 12.jpg"
+      }
+      ,
+      {
+        "City":"طرطوس" ,
+        "Details":"مساحة 110 م" ,
+        "MonthlyRent":"750000" ,
+        "Area":"صافيتا " ,
+        "Garage":"موجود" ,
+        "Floor":"لطابق الأرضي" ,
+        "Furnished":"غير موجود" ,
+        "BalconySquare":"15م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 13.jpg",
+        "Picture2":"./Images/pic 14.jpg",
+        "Picture3":"./Images/pic 15.jpg"
+      }
+      ,
+      {
+        "City":"دمشق" ,
+        "Details":"مساحة 130 م" ,
+        "MonthlyRent":"1000000" ,
+        "Area":"المزة" ,
+        "Garage":"غير موجود" ,
+        "Floor":"الطابق الأول" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"30م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 16.jpg",
+        "Picture2":"./Images/pic 17.jpg",
+        "Picture3":"./Images/pic 18.jpg"
+      }
+      ,
+      {
+        "City":"دمشق" ,
+        "Details":"مساحة 100 م" ,
+        "MonthlyRent":"850000" ,
+        "Area":"المهاجرين" ,
+        "Garage":"غير موجود" ,
+        "Floor":"الطابق الثالث" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"22م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 19.jpg",
+        "Picture2":"./Images/pic 20.jpg",
+        "Picture3":"./Images/pic 21.jpg"
+      }
+      ,
+      {
+        "City":"حمص" ,
+        "Details":"مساحة 90 م" ,
+        "MonthlyRent":"700000" ,
+        "Area":"الرستن" ,
+        "Garage":"موجود" ,
+        "Floor":"الطابق الثاني" ,
+        "Furnished":"موجود" ,
+        "BalconySquare":"32م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 22.jpg",
+        "Picture2":"./Images/pic 23.jpg",
+        "Picture3":"./Images/pic 24.jpg"
+      }
+      ,
+      {
+        "City":"حلب" ,
+        "Details":"مساحة 100 م" ,
+        "MonthlyRent":"550000" ,
+        "Area":"الشهباء الجديدة" ,
+        "Garage":"غير موجود" ,
+        "Floor":"الطابق الثالث" ,
+        "Furnished":"غير موجود" ,
+        "BalconySquare":"10م" ,
+        "Property":"طابو" ,
+        "picture1":"./Images/pic 25.jpg",
+        "Picture2":"./Images/pic 26.jpg",
+        "Picture3":"./Images/pic 27.jpg"
+      }
+      
+
+
+
+]
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
